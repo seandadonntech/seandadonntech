@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lilcryptotech" target="blank"><img src="https://img.shields.io/twitter/follow/lilcryptotech?logo=twitter&style=for-the-badge" alt="lilcryptotech" /></a> </p>
 
+- 🌱 I’m currently **refresing my python skills**
+
 - 👨‍💻 All of my projects are available at [MY GITHUB](MY GITHUB)
+
+- 🥷🏿 nicknames **lilcryptotech,technio,the hood programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
