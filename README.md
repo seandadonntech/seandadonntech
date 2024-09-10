@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 just a dude who codes
 ---------------------
 
-* 🌍  I'm based in Brooklyn NY,NY
+* 🌍  I'm based in Brooklyn NY(hometown)
 * 🖥️  See my portfolio at [my portfolio (unfinished)](http://https://seandadonntech.github.io/)
 * 🤝  I'm open to collaborating on anything I feel like
 
